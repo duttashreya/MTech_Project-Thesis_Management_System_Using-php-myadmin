@@ -1,0 +1,2 @@
+# MTech_Project-Thesis_Management_System_Using-php-myadmin
+I developed a MTech Project/ Thesis management system where students, teachers and faculty can register themselves and login. Admin can approve student or teacher. Teachers can see the completed or ongoing projects in the dashboard, can search projects, can give marks . students can upload projects and see the marks and download grade cards.
